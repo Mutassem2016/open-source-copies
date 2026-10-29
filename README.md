@@ -7,5 +7,8 @@ in file OPEN_COMPILER.html
 © Copyright 2026 One Compiler Pvt. Ltd.
 
 Please read its more rules to safe yourself.
+
+https://onecompiler.com/
 ### github:
 in file GITJOB.html
+https://github.com/
